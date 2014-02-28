@@ -33,6 +33,4 @@ public class Nucleus
 		var2.setLocationAndAngles(this.theEntity.posX, this.theEntity.posY, this.theEntity.posZ, this.theEntity.rotationYaw, 0.0F);
         var2.theEntity.spawnEntityInWorld(var2);
 	}
-	public String mutate(String par1)
-	
 }
